@@ -1,5 +1,5 @@
 # 💫 About Me:
-Soy un estudiante y programador novato que busca adentrarse<br>en el entorno y comunidad de programación, colaborando en<br>proyectos, buscar ayuda en esta pagina, con ansias de especializarme <br>en Python y HTML. Tengo 20 años y vengo de México.
+Soy un estudiante y programador novato que busca adentrarse<br>en el entorno y comunidad de programación, colaborando en<br>proyectos, buscar ayuda en esta pagina, con ansias de especializarme <br>en Python, C# y HTML. Tengo 20 años y vengo de México.
 
 
 ## 🌐 Socials:
